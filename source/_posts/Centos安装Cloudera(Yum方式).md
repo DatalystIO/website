@@ -1,6 +1,7 @@
 ---
 title: Centos安装Cloudera CDH（YUM方式）
 date: 2016/10/24
+tags: centos cloudera
 ---
 
 #Centos安装Cloudera CDH（YUM方式）
