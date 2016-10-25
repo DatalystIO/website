@@ -1,3 +1,7 @@
+---
+title: Docker安装Centos
+date: 2016/10/24
+---
 #Docker安装Centos
 
 ##设置Docker国内镜像

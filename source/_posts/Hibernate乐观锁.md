@@ -1,3 +1,8 @@
+---
+title: 理解Hibernate乐观锁
+date: 2016/10/24
+---
+
 #理解Hibernate乐观锁
 
 ##介绍

@@ -1,3 +1,7 @@
+---
+title: Centos安装caravel
+date: 2016/10/25
+---
 #Centos安装caravel
 
 ##简介
