@@ -2,10 +2,12 @@
 title: Docker安装Centos
 date: 2016/10/24
 ---
+
 #Docker安装Centos
 
 ##设置Docker国内镜像
 镜像源地址可以通过阿里云申请一个：https://dev.aliyun.com/search.html ，也可以去网易镜像库寻找资源https://c.163.com/hub#/m/home/ 。
+
 ##安装Centos
 ```
 docker pull centos
