@@ -11,9 +11,9 @@ caravel要求python2.7以上，推荐使用python3.4+的版本，所以如果是
 ###1.下载安装Python2.7
 ```
 wget http://python.org/ftp/python/2.7.3/Python-2.7.3.tar.bz2
-tar -jxvf Python-2.7.3.tar.bz2 
+tar -jxvf Python-2.7.3.tar.bz2
 cd Python-2.7.3
-./configure  make all             make install  make clean  make distclean 
+./configure  make all             make install  make clean  make distclean
 ```
 
 ###2.建立软链接，修改系统默认Python指向
@@ -121,4 +121,3 @@ caravel runserver -p 8088
 4.【pip阿里源】http://mirrors.aliyun.com/help/pypi
 
 5.【pip mac配置】https://pip.pypa.io/en/stable/user_guide/#configuration
-
